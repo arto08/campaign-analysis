@@ -2,7 +2,7 @@
 
 Small project using pandas to get some insight about ad campaigns.
 
-### two data sources:
+### data sources:
 
 - source1.csv: campaign_id,audience,impressions
 - source2.csv: ad_id,ad_type,campaign_id,date,spend,actions 
